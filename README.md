@@ -17,11 +17,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install and enable Internet Information Services (IIS) with CGI
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable Internet Information Services (IIS) with CGI and common HTTP Features
+- Install PHP Manager for Internet Information Services (IIS) and install rewrite     module
+- Download and install C++ Redistributable (VC_redist.x86.exe)
+- Install MySQL server and install Heidi SQL (database client)
+- Configure IIS permissions and install osTicket
 
 <h2>Installation Steps</h2>
 
@@ -30,7 +30,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Using a virtual machine through Azure, I installed and enabled Internet Information Services (IIS), a web server that will allow osTicket to run. Then I enabled CGI and other common HTTP features.
+
 </p>
 <br />
 
