@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Installed PHP Manager for ISS and then installed Rewrite Module which is required for osTicket to work. Then created a directory for PHP on the local hard drive and extracted the files from the PHP download and unzipped it into C:\PHP directory that was created.
+Installed PHP Manager for Internet Information Services and then installed Rewrite Module which is required for osTicket to work. Then created a directory for PHP on the local hard drive and extracted the files from the PHP download and unzipped it into C:\PHP directory that was created.
 </p>
 <br />
 
