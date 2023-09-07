@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-  Using a virtual machine through Azure, I installed and enabled Internet Information Services (IIS), a web server that will allow osTicket to run. Then I enabled CGI and other common HTTP features. Then I checked to see if IIS was correctly installed by typing the loopback address (127.0.0.1) into the browser which displayed a page says Internet Information Services.
+  Using a virtual machine through Azure, I installed and enabled Internet Information Services (IIS), a web server that will allow osTicket to run. Then I enabled CGI and other common HTTP features. Then I checked to see if IIS was correctly installed by typing the loopback address (127.0.0.1) into the browser which displayed a page thst says Internet Information Services.
 
 </p>
 <br />
@@ -40,14 +40,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed PHP Manager for ISS and then installed Rewrite Module which is required for osTicket to work. Then created a directory for PHP on the local hard drive and extracted the files from the PHP download and unzipped it into C:\PHP directory that was created.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="500" alt="image" src="https://github.com/dblock5/osticket-prereqs/assets/102873312/ad19275a-8629-40ae-8ba8-ee9064789e75">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then, I installed a C++ redistributable (VC_redist.x86.exe) which may be required for PHP to work.
+</p>
+
+<br />
+<p>
+<img width="515" alt="image" src="https://github.com/dblock5/osticket-prereqs/assets/102873312/7d3d965f-8f47-434b-80f6-cabde32eb223">
+</p>
+<p>
+Installed a database called MySQL server because osTicket requires this in order to store application data such as users, tickets etc. Then I installed HeidiSQL which allows you to connect/interact to MySQL database that osTicket will use. Then I registered PHP from within ISS. 
 </p>
 <br />
+<p>
+  <img width="488" alt="image" src="https://github.com/dblock5/osticket-prereqs/assets/102873312/766a2b1c-22a6-4491-a561-9226f8568afb">
+
+<img width="859" alt="image" src="https://github.com/dblock5/osticket-prereqs/assets/102873312/f2071535-3633-46a5-ad72-ac4e550d737e">
+  
+</p>
+<p>
+
+</p>
