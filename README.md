@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-  Using a virtual machine through Azure, I installed and enabled Internet Information Services (IIS), a web server that will allow osTicket to run. Then I enabled CGI and other common HTTP features. Then I checked to see if IIS was correctly installed by typing the loopback address (127.0.0.1) into the browser which displayed a page thst says Internet Information Services.
+  Using a virtual machine through Azure, I installed and enabled Internet Information Services (IIS), a web server that will allow osTicket to run. Then I enabled CGI and other common HTTP features. Then checked to see if IIS was correctly installed by typing the loopback address (127.0.0.1) into the browser which displayed a page thst says Internet Information Services.
 
 </p>
 <br />
