@@ -30,13 +30,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-  Using a virtual machine through Azure, I installed and enabled Internet Information Services (IIS), a web server that will allow osTicket to run. Then I enabled CGI and other common HTTP features.
+  Using a virtual machine through Azure, I installed and enabled Internet Information Services (IIS), a web server that will allow osTicket to run. Then I enabled CGI and other common HTTP features. Then I checked to see if IIS was correctly installed by typing the loopback address (127.0.0.1) into the browser which displayed a page says Internet Information Services.
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="495" alt="image" src="https://github.com/dblock5/osticket-prereqs/assets/102873312/c9ad5810-9f7d-4af3-968f-1400ff37140a">
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
