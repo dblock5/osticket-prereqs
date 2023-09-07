@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable Internet Information Services (IIS) with CGI and common HTTP Features
 - Install PHP Manager for Internet Information Services (IIS) and install rewrite     module
 - Download and install C++ Redistributable (VC_redist.x86.exe)
-- Install MySQL server and install Heidi SQL (database client)
+- Install MySQL server and install HeidiSQL (database client)
 - Configure IIS permissions and install osTicket
 
 <h2>Installation Steps</h2>
