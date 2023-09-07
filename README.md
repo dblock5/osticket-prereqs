@@ -50,7 +50,7 @@ Installed PHP Manager for Internet Information Services and then installed Rewri
 
 </p>
 <p>
-Then, I installed a C++ redistributable (VC_redist.x86.exe) which may be required for PHP to work.
+Then, I installed a C++ redistributable (VC_redist.x86.exe) which is required for PHP to work.
 </p>
 
 <br />
