@@ -38,6 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img width="495" alt="image" src="https://github.com/dblock5/osticket-prereqs/assets/102873312/c9ad5810-9f7d-4af3-968f-1400ff37140a">
 
+
 </p>
 <p>
 Installed PHP Manager for ISS and then installed Rewrite Module which is required for osTicket to work. Then created a directory for PHP on the local hard drive and extracted the files from the PHP download and unzipped it into C:\PHP directory that was created.
@@ -55,9 +56,13 @@ Then, I installed a C++ redistributable (VC_redist.x86.exe) which may be require
 <br />
 <p>
 <img width="515" alt="image" src="https://github.com/dblock5/osticket-prereqs/assets/102873312/7d3d965f-8f47-434b-80f6-cabde32eb223">
+
+
+<img width="492" alt="image" src="https://github.com/dblock5/osticket-prereqs/assets/102873312/ae90bdbf-6326-48f9-b9a6-1f1506c501f4">
+
 </p>
 <p>
-Installed a database called MySQL server because osTicket requires this in order to store application data such as users, tickets etc. Then I installed HeidiSQL which allows you to connect/interact to MySQL database that osTicket will use. Then I registered PHP from within ISS. 
+Installed a database called MySQL server because osTicket requires this in order to store application data such as users, tickets etc. Then I installed HeidiSQL which allows you to connect to MySQL database that osTicket will use. Then I registered PHP from within ISS. 
 </p>
 <br />
 <p>
@@ -67,5 +72,5 @@ Installed a database called MySQL server because osTicket requires this in order
   
 </p>
 <p>
-
+Then, I configured IIS permissions and enabled different extensions in the PHP manager and installed osTicket and created a new session/created a database on HeidiSQL that osTicket will use. Then I connected the database to osTicket, finished osTicket download/signup and successfully connected to osTicket. 
 </p>
