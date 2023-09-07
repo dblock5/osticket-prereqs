@@ -62,7 +62,7 @@ Then, I installed a C++ redistributable (VC_redist.x86.exe) which may be require
 
 </p>
 <p>
-Installed a database called MySQL server because osTicket requires this in order to store application data such as users, tickets etc. Then I installed HeidiSQL which allows you to connect to MySQL database that osTicket will use. Then I registered PHP from within ISS. 
+Installed a database called MySQL server because osTicket requires this in order to store application data such as users, tickets etc. Then I installed HeidiSQL which allows you to connect to MySQL database that osTicket will use. Then I registered PHP from within ISS in order to enable PHP. 
 </p>
 <br />
 <p>
